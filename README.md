@@ -1,2 +1,2 @@
-# cpp-test
-A C++ Beginner Scripts
+# C++ Scripts
+Scripts written in C++
